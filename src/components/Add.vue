@@ -1,7 +1,7 @@
 <template>
   <div class='Add'>
         <van-nav-bar
-  title="提交新问题"
+  title="提交新问题helloworld"
   left-text="返回"
   left-arrow
   @click-left="onClickLeft"
